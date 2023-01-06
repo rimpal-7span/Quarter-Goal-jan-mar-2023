@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface TestInterface {
+@FunctionalInterface
+public interface TestInterface
+{
+	public void test();
 }
