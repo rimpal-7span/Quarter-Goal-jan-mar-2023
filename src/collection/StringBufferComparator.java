@@ -1,3 +1,5 @@
+package collection;
+
 import java.util.Comparator;
 
 public class StringBufferComparator implements Comparator<StringBuffer>

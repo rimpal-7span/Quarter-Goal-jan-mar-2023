@@ -1,3 +1,5 @@
+package collection;
+
 @FunctionalInterface
 public interface TestInterface
 {

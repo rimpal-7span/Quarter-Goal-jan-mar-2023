@@ -1,5 +1,7 @@
-import java.util.Collection;
-import java.util.HashSet;
+package collection;
+
+import collection.StringBufferComparator;
+
 import java.util.Set;
 import java.util.TreeSet;
 

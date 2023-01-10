@@ -1,3 +1,5 @@
+package collection;
+
 import com.sun.javafx.collections.MappingChange;
 
 import java.util.ArrayList;
@@ -13,7 +15,7 @@ public class Map_test
 		Employee employee1=new Employee(2,"pqr",25000.00);
 		Employee employee3=new Employee(3,"xyz",27000.00);
 
-		Map<Integer,Employee> empMap= new HashMap<>();
+		Map<Integer, Employee> empMap= new HashMap<>();
 		empMap.put(1,employee);
 		empMap.put(2,employee1);
 		empMap.put(3,employee3);
