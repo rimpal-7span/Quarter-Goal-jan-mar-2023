@@ -4,7 +4,12 @@ public class Employee
 {
 	private int eid;
 
-//	@Override
+	public Employee()
+	{
+
+	}
+
+	//	@Override
 //	public boolean equals(Object o)
 //	{
 //		if (this == o)
